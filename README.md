@@ -1,3 +1,3 @@
 # coming_soon
 coming soon
-https://munnaf-sarker.github.io/coming_soon/
+https://hasibhossan.github.io/404-page/
